@@ -3,7 +3,7 @@
 }
 
 .sidenav {
-  width: 200px;
+  width: 180px;
 }
 
 .sidenav .mat-toolbar {
@@ -14,4 +14,7 @@
   position: sticky;
   top: 0;
   z-index: 1;
+}
+.mat-raised-button{
+  font-size: 20px;
 }
