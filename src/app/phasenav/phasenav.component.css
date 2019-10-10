@@ -3,7 +3,7 @@
 }
 
 .sidenav {
-  width: 180px;
+  width: 200px;
 }
 
 .sidenav .mat-toolbar {
@@ -17,4 +17,14 @@
 }
 .mat-raised-button{
   font-size: 20px;
+}
+#xhead {
+  margin-top: -10px;
+}
+
+#xplat{
+    top: -50px;
+    bottom: -50px;
+    position: inherit;
+    display: block;
 }

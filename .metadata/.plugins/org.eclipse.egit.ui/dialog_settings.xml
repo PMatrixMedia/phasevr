@@ -2,4 +2,12 @@
 <section name="Workbench">
 	<section name="GitImportWizard">
 	</section>
+<<<<<<< HEAD
+=======
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="200,200" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="200,200" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+>>>>>>> a2818c48d4b833d16db766c61e116158a0a1eaa0
 </section>
