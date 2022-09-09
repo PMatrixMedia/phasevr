@@ -128,5 +128,8 @@
       }
     }
   },
-  "defaultProject": "phasevr"
+  "defaultProject": "phasevr",
+  "cli": {
+    "analytics": false
+  }
 }
