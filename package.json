@@ -15,14 +15,26 @@
     "@angular/cdk": "^14.2.1",
     "@angular/common": "^14.2.1",
     "@angular/compiler": "~8.1.2",
+<<<<<<< HEAD
     "@angular/core": "^14.2.1",
     "@angular/forms": "^14.2.1",
     "@angular/material": "^14.2.1",
     "@angular/platform-browser": "^14.2.1",
     "@angular/platform-browser-dynamic": "^14.2.1",
     "@angular/router": "^14.2.1",
+=======
+    "@angular/core": "~8.1.2",
+    "@angular/forms": "~8.1.2",
+    "@angular/material": "^8.2.1",
+    "@angular/platform-browser": "~8.1.2",
+    "@angular/platform-browser-dynamic": "~8.1.2",
+    "@angular/router": "~8.1.2",
+    "bootstrap": "^5.1.2",
+>>>>>>> e4828155bcf6791938f49ae732535b4662b4c351
     "font-awesome": "^4.7.0",
     "hammerjs": "^2.0.8",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1",
     "primeng": "^8.0.3",
     "rxjs": "~6.4.0",
     "systemjs": "^6.1.2",
@@ -37,7 +49,12 @@
     "@types/jasmine": "~3.3.8",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "~8.9.4",
+<<<<<<< HEAD
     "codelyzer": "^0.0.28",
+=======
+    "codelyzer": "^5.0.0",
+    "jasmine-core": "~3.4.0",
+>>>>>>> e4828155bcf6791938f49ae732535b4662b4c351
     "jasmine-spec-reporter": "~4.2.1",
     "karma": "^6.4.0",
     "karma-chrome-launcher": "~2.2.0",
